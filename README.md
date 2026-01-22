@@ -25,7 +25,10 @@ A **Computer Science student** who is just starting her journey into the world o
 ## 🛠️ Skills (Learning Phase)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,python,c,git,github" alt="skills" />
+ <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,python,java,c,git,github" alt="skills" />
+</p>
+
 </p>
 
 ---
