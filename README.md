@@ -7,7 +7,7 @@
 
 ---
 
-## 🌸 About Me  
+## 🌸 About Me:
 
 <img align="right" alt="Coding Girl GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320" height="230"/>
 
